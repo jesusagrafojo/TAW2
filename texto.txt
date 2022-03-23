@@ -1,0 +1,26 @@
+Información
+TAW es una familia de herramienta para el análisis de la accesibilidad de sitios web, alcanzando de una forma integral y global a todos los elementos y páginas que lo componen. Esta familia la componen diversas herramientas, desde los más conocidos analizadores de páginas a los sistemas de monitorización o una herramienta para la realización de observatorios. El nexo común a todos son los motores de análisis, que han ido creciendo en funcionalidades desde el de accesibilidad a los de calidad web, SEO o movilidad.
+
+Objetivo
+Comprobar el nivel de accesibilidad alcanzado en el diseño y desarrollo de páginas web con el fin de permitir el acceso a todas las personas independientemente de sus características diferenciadoras.
+
+Destinatarios
+Público en general y específicamente profesionales de campo como webmasters, desarrolladores, diseñadores de páginas web etc.
+Entendemos por accesibilidad el acceso a la información contenida en los sitios web sin limitación alguna por razón de deficiencia, minusvalía o tecnología utilizada sin que interfieran, por ejemplo:
+
+Problemas de oído, visión, movilidad.
+Dificultades de lectura o comprensión cognitiva.
+Imposibilidad de utilización del teclado o el ratón.
+Lector de sólo texto, pantalla pequeña o conexión lenta.
+La accesibilidad mejora el acceso a la web en general, no es de interés únicamente para personas con discapacidad.
+
+Destacados
+FORMACIÓN
+Nuevos cursos online y presenciales
+ampliar 
+TAW CMS
+Integra TAW en el CMS de tu organización
+ampliar 
+TAW Monitor
+Supervise de forma continua la calidad de sus sitios web
+ampliar
